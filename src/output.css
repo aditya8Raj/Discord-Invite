@@ -2677,6 +2677,7 @@ html {
 body {
   font-family: "Inter", sans-serif;
   transition: background-color 0.3s, color 0.3s;
+  cursor: url(cursor.svg), auto;
 }
 
 html {
@@ -3145,8 +3146,4 @@ pre {
     --tw-text-opacity: 1;
     color: rgb(209 213 219 / var(--tw-text-opacity));
   }
-}
-
-body{
-  cursor: url(/cursor.svg),auto;
 }
