@@ -8,6 +8,7 @@ import Member_5 from "../components/members/Member_5";
 import Member_6 from "../components/members/Member_6";
 import Member_7 from "../components/members/Member_7";
 import Member_8 from "../components/members/Member_8";
+import Member_9 from "../components/members/Member_9";
 
 import SearchBar from "../components/SearchBar";
 
@@ -82,6 +83,9 @@ const Members = () => {
 
               {/* member 8  */}
               <Member_8 />
+              
+              {/* member 9  */}
+              <Member_9 />
             </div>
           </section>
 
