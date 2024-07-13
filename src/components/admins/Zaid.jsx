@@ -4,7 +4,7 @@ const Zaid = () => {
       <div className="head-card admin-card flex flex-col items-center">
         <span className="admin-label">Co-Founder</span>
         <img
-          src="https://cdn.prod.website-files.com/62bdc93e9cccfb43e155104c/654f7e7c694b77bb4600eed3_Luffy%2520PFP%2520for%2520Tiktok%25205.png"
+          src="https://i.postimg.cc/9Qs3p1Gn/zaid.webp"
           alt="Zaid Rakhange"
           className="rounded-full object-cover mb-4"
         />

@@ -3,7 +3,7 @@ const Member_9 = () => {
   <>
    <div className="head-card flex flex-col items-center">
         <img
-          src="https://i.imgur.com/Fxqvc1m.jpeg"
+          src="https://i.postimg.cc/q7KPZnwM/member9.jpg"
           alt="Randeep"
           className="w-32 h-32 rounded-full object-cover mb-4"
         />

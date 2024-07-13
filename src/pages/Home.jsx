@@ -60,7 +60,7 @@ const Home = () => {
             <div className="admin-card bg-white rounded-lg shadow-lg overflow-hidden flex flex-col items-center p-6 relative transition-all duration-300 hover:shadow-2xl">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-purple-500 opacity-0 transition-opacity duration-300"></div>
               <img
-                src="https://cdn.prod.website-files.com/62bdc93e9cccfb43e155104c/654f7e7c694b77bb4600eed3_Luffy%2520PFP%2520for%2520Tiktok%25205.png"
+                src="https://i.postimg.cc/9Qs3p1Gn/zaid.webp"
                 alt="Zaid Rakhange"
                 className="w-32 h-32 rounded-full object-cover mb-4 border-4 border-primary z-10"
               />
@@ -98,7 +98,7 @@ const Home = () => {
             <div className="admin-card bg-white rounded-lg shadow-lg overflow-hidden flex flex-col items-center p-6 relative transition-all duration-300 hover:shadow-2xl">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-purple-500 opacity-0 transition-opacity duration-300"></div>
               <img
-                src="https://i.postimg.cc/K8xHFpfm/divyanshu.jpg"
+                src="https://i.postimg.cc/mDfsbVkH/divyanshu.jpg"
                 alt="Divyanshu Mhatre"
                 className="w-32 h-32 rounded-full object-cover mb-4 border-4 border-primary z-10"
               />
@@ -136,7 +136,7 @@ const Home = () => {
             <div className="admin-card bg-white rounded-lg shadow-lg overflow-hidden flex flex-col items-center p-6 relative transition-all duration-300 hover:shadow-2xl">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-purple-500 opacity-0 transition-opacity duration-300"></div>
               <img
-                src="https://i.postimg.cc/yNrQm1HN/arya.png"
+                src="https://i.postimg.cc/GtbnD2k3/arya.png"
                 alt="Arya S"
                 className="w-32 h-32 rounded-full object-cover mb-4 border-4 border-primary z-10"
               />

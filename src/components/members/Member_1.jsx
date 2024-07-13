@@ -1,4 +1,4 @@
-import image from "../../images/chirag_wadhwani.jpg";
+import image from "../../images/chirag_wadhwani.webp";
 
 const Member_1 = () => {
   return (

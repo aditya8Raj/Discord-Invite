@@ -1,4 +1,4 @@
-import logo from "../images/impic.png";
+import logo from "../images/impic.webp";
 
 const Footer = () => {
   return (

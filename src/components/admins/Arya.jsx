@@ -4,7 +4,7 @@ const Arya = () => {
       <div className="head-card admin-card flex flex-col items-center">
         <span className="admin-label">Moderator</span>
         <img
-          src="https://i.postimg.cc/yNrQm1HN/arya.png"
+          src="https://i.postimg.cc/GtbnD2k3/arya.png"
           alt="Arya"
           className="rounded-full object-cover mb-4"
         />
