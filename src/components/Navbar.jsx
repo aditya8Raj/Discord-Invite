@@ -11,6 +11,7 @@ const Navbar = () => {
                 tabIndex="0"
                 role="button"
                 className="btn btn-ghost lg:hidden"
+                aria-label="Menubar button"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

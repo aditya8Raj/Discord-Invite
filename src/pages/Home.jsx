@@ -74,18 +74,21 @@ const Home = () => {
                 <a
                   href="#"
                   className="text-gray-400 hover:text-primary transition-colors"
+                  aria-label="Twitter"
                 >
                   <i className="fab fa-twitter"></i>
                 </a>
                 <a
                   href="#"
                   className="text-gray-400 hover:text-primary transition-colors"
+                  aria-label="LinkedIn"
                 >
                   <i className="fab fa-linkedin"></i>
                 </a>
                 <a
                   href="https://github.com/zaid-commits"
                   className="text-gray-400 hover:text-primary transition-colors"
+                  aria-label="GitHub"
                 >
                   <i className="fab fa-github"></i>
                 </a>
@@ -109,18 +112,21 @@ const Home = () => {
                 <a
                   href="https://x.com/Swechy315981?t=li8kYqLnvXlJz1HxlhpVXg&s=09"
                   className="text-gray-400 hover:text-primary transition-colors"
+                  aria-label="Twitter"
                 >
                   <i className="fab fa-twitter"></i>
                 </a>
                 <a
                   href="#"
                   className="text-gray-400 hover:text-primary transition-colors"
+                  aria-label="LinkedIn"
                 >
                   <i className="fab fa-linkedin"></i>
                 </a>
                 <a
                   href="https://github.com/Impic0"
                   className="text-gray-400 hover:text-primary transition-colors"
+                  aria-label="GitHub"
                 >
                   <i className="fab fa-github"></i>
                 </a>
@@ -144,18 +150,21 @@ const Home = () => {
                 <a
                   href="#"
                   className="text-gray-400 hover:text-primary transition-colors"
+                  aria-label="Twitter"
                 >
                   <i className="fab fa-twitter"></i>
                 </a>
                 <a
                   href="#"
                   className="text-gray-400 hover:text-primary transition-colors"
+                  aria-label="LinkedIn"
                 >
                   <i className="fab fa-linkedin"></i>
                 </a>
                 <a
                   href="#"
                   className="text-gray-400 hover:text-primary transition-colors"
+                  aria-label="GitHub"
                 >
                   <i className="fab fa-github"></i>
                 </a>

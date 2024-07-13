@@ -1,8 +1,32 @@
-# React + Vite
+<div align="center">
+  <h1>Impic</h1>
+  <p>Join our professional community. Connect with programmers, gamers and more.</p>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Local Setup
 
-Currently, two official plugins are available:
+Clone the repository with:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+git clone https://github.com/zaid-commits/Discord-Invite.git
+```
+
+Switch to the main directory:
+
+```bash
+cd Discord-Invite
+```
+
+### Install & run
+
+Install dependencies with:
+
+```bash
+npm install
+```
+
+Once it's done start up a local server with:
+
+```bash
+npm run dev
+```
