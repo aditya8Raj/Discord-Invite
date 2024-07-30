@@ -9,7 +9,7 @@ const Home = () => {
               Join Our Professional Community
             </h1>
             <p className="py-6">Connect with programmers, gamers, and more!</p>
-            <a href="https://discord.gg/S4QV6BbcNA">
+            <a href="https://discord.gg/VuPqSeGd">
               <button className="btn btn-primary rounded-full px-10">
                 Join Now
               </button>

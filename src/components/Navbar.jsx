@@ -69,7 +69,7 @@ const Navbar = () => {
           <div className="navbar-end">
             <a
               className="btn bg-black text-white hover:bg-white hover:text-black transition duration-500 ease-in-out mr-3"
-              href="https://discord.gg/S4QV6BbcNA"
+              href="https://discord.gg/VuPqSeGd"
             >
               Join Discord
             </a>
